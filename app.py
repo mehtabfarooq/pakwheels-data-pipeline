@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import pyodbc
-import db_config
 import matplotlib.pyplot as plt
 import numpy as np
 from sqlalchemy import create_engine
