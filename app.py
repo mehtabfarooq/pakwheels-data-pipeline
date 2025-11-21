@@ -11,11 +11,11 @@ import urllib
 st.set_page_config(layout="wide") 
 
 ##Connecting to database
-server = db_config.DB_SERVER
-database = db_config.DB_NAME
-username = db_config.DB_USER
-password = db_config.DB_PASSWORD
-table_name = db_config.DB_TABLE_NAME
+server = st.secrets["DB_SERVER"]
+database = st.secrets["DB_NAME"]
+username = st.secrets["DB_USER"]
+password = st.secrets["DB_PASSWORD"]
+table_name = st.secrets["DB_TABLE_NAME"]
 
 connection_string = (
     f"DRIVER={{ODBC Driver 17 for SQL Server}};"
