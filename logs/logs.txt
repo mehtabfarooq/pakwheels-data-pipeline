@@ -1,0 +1,15 @@
+2025-11-22 17:44:03.013317: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=1
+2025-11-22 17:44:04.531539: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=2
+2025-11-22 17:44:05.994217: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=3
+2025-11-22 17:44:07.585765: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=4
+2025-11-22 17:44:09.088861: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=5
+2025-11-22 17:44:11.006165: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=6
+2025-11-22 17:44:13.238983: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=7
+2025-11-22 17:44:15.371446: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=8
+2025-11-22 17:44:17.421350: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=9
+2025-11-22 17:44:19.604449: Extraction: Extracting data from https://www.pakwheels.com/used-cars/search/-/featured_1/?page=10
+2025-11-22 17:44:19.610077: Loading: Loading data into data/pakwheels_listings_raw.csv
+2025-11-22 17:44:19.613553: Cleaning: Cleaning data
+2025-11-22 17:44:19.621094: Loading: Loading data into data/pakwheels_listings_clean.csv
+2025-11-22 17:45:12.764451: Connecting: Connecting to database
+2025-11-22 17:45:12.979339: Dumping: Dumping data into database
